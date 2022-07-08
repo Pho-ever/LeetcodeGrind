@@ -9,4 +9,4 @@ var hasCycle = function (head) {
         slow = slow.next;
     }
     return false;
-};
+}; 
